@@ -1,4 +1,4 @@
-a=(Last updated: 2022-02-01 12:13:00+00:00
+a=("Last updated: 2022-02-01 12:13:00+00:00
 {'Argentine Peso': 118362.205708,     
  'Australian Dollar': 1586.232315,    
  'Bahraini Dinar': 423.780164,        
@@ -51,5 +51,5 @@ a=(Last updated: 2022-02-01 12:13:00+00:00
  'Trinidadian Dollar': 7636.35428,
  'Turkish Lira': 15078.75981,
  'US Dollar': 1127.074905,
- 'Venezuelan Bolivar': 511082584.868731})
+ 'Venezuelan Bolivar': 511082584.868731")
 ptint("a")
